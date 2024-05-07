@@ -4,7 +4,6 @@ metadata:
   name: test-docs
   description: test-docs
   tags:
-    - $text: .version
     - group:default/latam
   links:
     - url: https://github.com/xAlstrat/test-docs
