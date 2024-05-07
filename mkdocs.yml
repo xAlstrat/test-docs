@@ -1,0 +1,5 @@
+site_name: 'test-dcocs'
+
+nav:
+  - Home: 'index.md'
+  
